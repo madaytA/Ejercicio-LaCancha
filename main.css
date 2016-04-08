@@ -1,0 +1,49 @@
+.padre{
+	background-color: #70B685;
+	height: 550px;
+	width: 950px;
+}
+
+.hijo{
+	border: 1px solid #ffffff;
+	height: 500px;
+	width: 900px;
+	position: absolute;
+	left: 25px;
+	top: 25px;	
+}
+.nieto{
+	border: 1px solid #ffffff;
+	height: 200px;
+	width: 100px;
+	position: absolute;
+	top: 150px;
+}
+.mayor{
+	left: 800px;
+}
+.redondo{
+	border-radius: 100%;
+	width: 200px;
+	left: 350px;	
+}
+.bola{
+	position: relative;
+}
+.uno{
+	top: 160px;
+	left: 90px;
+}
+.dos{
+	top: 60px;
+	left: 450px;
+}
+.tres{
+	top: 310px;
+	left: 720px;
+}
+
+
+
+
+/* Inserta tu CSS aqui */
